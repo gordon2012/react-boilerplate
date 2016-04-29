@@ -7,3 +7,4 @@ A React project for FreeCodeCamp
 ## DONE:
 - initial commit
 	- add missing script
+- refactor out components

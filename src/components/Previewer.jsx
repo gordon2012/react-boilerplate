@@ -5,7 +5,7 @@ function Previewer(props) {
 	var markdown = {
 		__html: marked.parse(props.text)
 	};
-	
+
 	return <div>
 		<div className="col-sm-6">
 			<textarea className="form-control" rows="20" onChange={props.onUpdateText}>{props.text}</textarea>
