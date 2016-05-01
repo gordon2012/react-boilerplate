@@ -1,4 +1,4 @@
-# Markdown Preview
+# React Boilerplate
 
 A React boilerplate for FreeCodeCamp React projects
 
@@ -7,3 +7,4 @@ A React boilerplate for FreeCodeCamp React projects
 
 ## DONE:
 - initial commit
+	- fix title
