@@ -1,7 +1,7 @@
 {
-  "name": "markdown",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "A React project for FreeCodeCamp",
+  "description": "A React boilerplate for FreeCodeCamp React projects",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --inline --hot --progress --colors",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gordon2012/markdown.git"
+    "url": "git+https://github.com/gordon2012/react-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gordon2012/markdown/issues"
+    "url": "https://github.com/gordon2012/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/gordon2012/markdown#readme",
+  "homepage": "https://github.com/gordon2012/react-boilerplate#readme",
   "dependencies": {
     "marked": "^0.3.5",
     "react": "^15.0.1",

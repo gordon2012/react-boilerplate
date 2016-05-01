@@ -1,10 +1,9 @@
 # Markdown Preview
 
-A React project for FreeCodeCamp
+A React boilerplate for FreeCodeCamp React projects
 
 ## TODO:
+-	setup travis
 
 ## DONE:
 - initial commit
-	- add missing script
-- refactor out components
