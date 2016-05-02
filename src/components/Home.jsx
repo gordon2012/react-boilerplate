@@ -6,7 +6,7 @@ var Footer = require('./Footer.jsx');
 function Home(props) {
 	return <div>
 		<div style={{minHeight: "calc(100vh - 40px)"}}>
-			<Header />
+			<Header header="React Boilerplate" subtext="A React boilerplate for FreeCodeCamp React projects"/>
 			<PreviewerConnector />
 		</div>
 		<Footer />
