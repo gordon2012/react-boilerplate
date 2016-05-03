@@ -8,3 +8,4 @@ A React boilerplate for FreeCodeCamp React projects
 - initial commit
 	- fix title
 - setup travis and modularize Header
+- modularize Footer

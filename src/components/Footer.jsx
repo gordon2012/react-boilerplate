@@ -13,16 +13,12 @@ var style = {
 		left: '50%',
 		transform: 'translate(-50%, -50%)'
 	},
-	span: {
-		paddingRight: '8px'
-	}
 }
 
 function Footer(props) {
 	return <footer className="col-sm-12 text-center" style={style.footer}>
 		<div style={style.div}>
-			<span style={style.span}>Copyright 2016 Gordon Doskas</span>
-			<a href="https://github.com/gordon2012/markdown" target="_blank" className="btn btn-sm btn-default">GitHub</a>
+			{props.children}
 		</div>
 	</footer>
 }
