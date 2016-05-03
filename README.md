@@ -9,3 +9,4 @@ A React boilerplate for FreeCodeCamp React projects
 	- fix title
 - setup travis and modularize Header
 - modularize Footer
+- separate containers from components
