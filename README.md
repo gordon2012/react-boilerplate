@@ -10,3 +10,4 @@ A React boilerplate for FreeCodeCamp React projects
 - setup travis and modularize Header
 - modularize Footer
 - separate containers from components
+- start adding modal
