@@ -3,6 +3,7 @@
 A React boilerplate for FreeCodeCamp React projects
 
 ## TODO:
+- create a base page
 
 ## DONE:
 - initial commit
@@ -11,3 +12,4 @@ A React boilerplate for FreeCodeCamp React projects
 - modularize Footer
 - separate containers from components
 - start adding modal
+	- continue adding modal
